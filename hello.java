@@ -1,4 +1,4 @@
 class hello{
 void display{
-System.out.println("assassins");
+System.out.println("Far");
 }}
